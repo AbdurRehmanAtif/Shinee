@@ -16,7 +16,7 @@ import UIKit
 class ViewController: UIViewController {
 
     
-    func (){
+    func name(){
     
     }
     override func viewDidLoad() {
